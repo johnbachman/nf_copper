@@ -2,8 +2,4 @@
 
 ## Requirements
 
-* pip install indra
-* pip install jupyter
-* pip install numpy
-* pip install matplotlib
-* pip install pygraphviz
+* pip install -r requirements.txt
