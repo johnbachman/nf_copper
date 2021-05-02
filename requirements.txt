@@ -1,0 +1,6 @@
+indra
+jupyter
+numpy
+matplotlib
+pygraphviz
+kappy
